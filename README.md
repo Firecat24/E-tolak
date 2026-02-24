@@ -2,7 +2,7 @@
 
 **e-Tolakku** adalah aplikasi berbasis otomasi yang dirancang untuk menangani dokumentasi dan pelaporan penolakan obat di lingkungan apotek secara digital. Proyek ini mentransformasi pencatatan manual yang rentan kesalahan menjadi sistem yang terstruktur, akurat, dan efisien.
 
-> 🛠️ **Tech Stack:** Google Apps Script (GAS), Google Sheets (Database), Google Docs (Template Engine).
+> 🛠️ **Tech Stack:** Google Apps Script (GAS), Google Sheets (Database).
 
 ## 🚀 Masalah & Solusi
 Di lingkungan farmasi, pencatatan penolakan obat sangat krusial untuk evaluasi pengadaan stok. 
