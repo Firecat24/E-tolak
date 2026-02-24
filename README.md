@@ -1,13 +1,13 @@
-# e-Tolakku: Sistem Otomasi Manajemen Penolakan Obat 🏥💊
+# e-Tolak: Sistem Otomasi Manajemen Penolakan Obat 🏥💊
 
-**e-Tolakku** adalah aplikasi berbasis otomasi yang dirancang untuk menangani dokumentasi dan pelaporan penolakan obat di lingkungan apotek secara digital. Proyek ini mentransformasi pencatatan manual yang rentan kesalahan menjadi sistem yang terstruktur, akurat, dan efisien.
+**e-Tolak** adalah aplikasi berbasis otomasi yang dirancang untuk menangani dokumentasi dan pelaporan penolakan obat di lingkungan apotek secara digital. Proyek ini mentransformasi pencatatan manual yang rentan kesalahan menjadi sistem yang terstruktur, akurat, dan efisien.
 
 > 🛠️ **Tech Stack:** Google Apps Script (GAS), Google Sheets (Database).
 
 ## 🚀 Masalah & Solusi
 Di lingkungan farmasi, pencatatan penolakan obat sangat krusial untuk evaluasi pengadaan stok. 
 * **Masalah:** Pencatatan manual sering kali tidak konsisten, sulit untuk direkapitulasi, dan memakan waktu petugas apotek.
-* **Solusi:** **e-Tolakku** mengotomasi seluruh alur kerja—mulai dari input data penolakan hingga pembuatan laporan resmi secara otomatis—memungkinkan manajemen untuk mengambil keputusan pengadaan obat lebih cepat.
+* **Solusi:** **e-Tolak** mengotomasi seluruh alur kerja—mulai dari input data penolakan hingga pembuatan laporan resmi secara otomatis—memungkinkan manajemen untuk mengambil keputusan pengadaan obat lebih cepat.
 
 ## ✨ Fitur Unggulan
 * **Pencatatan Terstruktur:** Form input yang divalidasi untuk memastikan data obat, dosis, dan alasan penolakan tercatat dengan benar.
