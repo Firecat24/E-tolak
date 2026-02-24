@@ -28,4 +28,9 @@ Di lingkungan farmasi, pencatatan penolakan obat sangat krusial untuk evaluasi p
 Aplikasi ini memanfaatkan **Google Apps Script** sebagai jembatan logika antara input petugas dengan **Google Sheets** sebagai basis data relasional sederhana. Sistem ini dirancang untuk berjalan di atas infrastruktur *cloud* yang ringan namun handal, tanpa memerlukan biaya server tambahan.
 
 ---
+
+> [!IMPORTANT]
+> **Disclaimer:** > Kode yang ditampilkan dalam repositori ini merupakan **sampel (logic demo)** untuk keperluan portofolio. Implementasi ini mencerminkan arsitektur dasar dari sistem yang lebih kompleks dan bertujuan untuk menunjukkan keahlian dalam logika pemrograman dan otomatisasi alur kerja.
+
+---
 *Developed by **Muhammad Farhan Putra Pratama, S.H.*** *Sebuah solusi efisiensi administrasi kesehatan berbasis teknologi otomasi.*
